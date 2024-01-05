@@ -5,7 +5,7 @@ favicon: /static/favicon.ico
 meta:
   title: " - EndHost"
 branding:
-  title: Hostyard
+  title: EndHost.eu
   label: Wiki v0.1
 links:
 - text: Strona główna
