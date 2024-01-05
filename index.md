@@ -1,3 +1,7 @@
+---
+icon: home
+---
+
 # ENDHOST.EU - BAZA WIEDZY
 Cześć, miło nam cię powitać w bazie wiedzy serwisu ENDHOST.EU znajdziesz tutaj szereg niezbędnych informacji, które ułatwią ci zarządzanie produktami zakupionymi w naszym serwisie.
 
