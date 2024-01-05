@@ -11,8 +11,10 @@ Pamiętaj, podczas zmiany wersji serwera upewnij się, że wybrałeś/Aś odpowi
 By zainstalować wersję serwera użyjemy dostępnego w naszym panelu instalatora wersji, z którego możesz również skorzystać udając się pod adres [https://cpanel.endhost.eu](https://cpanel.endhost.eu/)/ następnie po zalogowaniu należy wybrać serwer, na którym zostanie przeprowadzona instalacja.
 ![](/static/minecraft/s1.png)
 Po wskazaniu właściwego dla nas serwera, udajemy się do zakładki VERSIONS wybierając interesującą nas wersję z dostępnej listy postanowiliśmy dokonać instalację wersji PURPUR 1.20.1 należy jednak pamiętać, że decyzja zależy od was, zachęcamy do zapoznania się z listą oferowanych wersji gry.
+
 ![](/static/minecraft/s2.png)
 Po wyborze odpowiedniej wersji do instalacji, należy nacisnąć przycisk INSTALL, po którego wciśnięciu system spyta się nas, czy jesteśmy pewni, że chcemy dokonać tej właśnie instalacji gry, przypomni nam również, że działanie to spowoduje usunięcie wszystkich dotychczasowych plików serwera jeśli więc nie mamy nic przeciwko, naciskamy przycisk INSTALL.
+
 ![](/static/minecraft/s3.png)
 Gotowe, prawidłowo przeprowadziliśmy proces instalacji nowej wersji serwera.
 ### SPOSÓB 2 - INSTALACJA PRZY UŻYCIU KLIENTA SFTP
