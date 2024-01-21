@@ -15,7 +15,9 @@ Wtyczka została wybrana, możemy więc przystąpić do jej instalacji, aby ją 
 
 ![](/static/minecraft/pluginmanager2.png)
 
+!!!success
 Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer.
+!!!
 
 ## SPOSÓB 2 - INSTALACJA MANUALNA
 
@@ -46,7 +48,7 @@ Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić se
 
 ![](/static/minecraft/listaploginow.png)
 
-  #### Instalacja przy pomocy klienta FTP zainstalowanego na komputerze.
+  #### Instalacja przy pomocy klienta SFTP zainstalowanego na komputerze.
   
   Dla celów tego poradnika posłużymy się narzędziem WINSCP, można użyć również innego oprogramowania, niekoniecznie wspomnianego powyżej.
 
