@@ -39,7 +39,7 @@ Po naciśnięciu przycisku Upload pojawi się menu służące do wyboru dodatku,
 
 ![](/static/minecraft/okienko.png)
 
-Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer.
+!!!success Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer. !!!
 
 ![](/static/minecraft/listaploginow.png)
 
