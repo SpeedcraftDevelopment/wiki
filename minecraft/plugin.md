@@ -16,6 +16,7 @@ Wtyczka została wybrana, możemy więc przystąpić do jej instalacji, aby ją 
 ![](/static/minecraft/pluginmanager2.png)
 
 Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer.
+
 ## SPOSÓB 2 - INSTALACJA MANUALNA
 
 !!!info
@@ -30,7 +31,7 @@ Po dokonaniu wyboru wtyczki pora na jej instalację wykonujemy to w następując
 
 ![](/static/minecraft/infoserwer.png)
 
- 1. Instalowanie z wykorzystaniem Menadżera plików.
+ #### Instalowanie z wykorzystaniem Menadżera plików.
 Po zalogowaniu na konto użytkownika przechodzimy do katalogu Files i klikamy na folder plugins.
 
 ![](/static/minecraft/pluginmanager.png)
@@ -39,11 +40,13 @@ Po naciśnięciu przycisku Upload pojawi się menu służące do wyboru dodatku,
 
 ![](/static/minecraft/okienko.png)
 
+!!!success
 Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer.
+!!!
 
 ![](/static/minecraft/listaploginow.png)
 
-  ## Instalacja przy pomocy klienta FTP zainstalowanego na komputerze.
+  #### Instalacja przy pomocy klienta FTP zainstalowanego na komputerze.
   
   Dla celów tego poradnika posłużymy się narzędziem WINSCP, można użyć również innego oprogramowania, niekoniecznie wspomnianego powyżej.
 
