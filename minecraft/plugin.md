@@ -39,11 +39,12 @@ Po naciśnięciu przycisku Upload pojawi się menu służące do wyboru dodatku,
 
 ![](/static/minecraft/okienko.png)
 
-!!!success Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer. !!!
+Udało się! Dodatek jest już aktywny, pozostaje jedynie ponownie uruchomić serwer.
 
 ![](/static/minecraft/listaploginow.png)
 
- ##2.  Instalacja przy pomocy klienta FTP zainstalowanego na komputerze.
+  ## Instalacja przy pomocy klienta FTP zainstalowanego na komputerze.
+  
   Dla celów tego poradnika posłużymy się narzędziem WINSCP, można użyć również innego oprogramowania, niekoniecznie wspomnianego powyżej.
 
 Po uruchomieniu programu ukaże się ekran z prośbą o podanie danych logowania do klienta SFTP.
